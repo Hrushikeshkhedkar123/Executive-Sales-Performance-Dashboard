@@ -40,6 +40,7 @@ Products
 Product ID
 Category
 Sub-Category
+
 🔸 Calendar Table
 Date
 Year
@@ -49,8 +50,11 @@ Month Number
 Implemented a Star Schema
 Relationships:
 Orders → Customers (Customer ID)
+
 Orders → Products (Product ID)
+
 Orders → Calendar (Order Date)
+
 📐 DAX Measures
 Total Sales = SUM(Orders[Sales])
 
@@ -75,6 +79,7 @@ DIVIDE(
     [Total Sales],
     CALCULATE([Total Sales], ALL(Products[Category]))
 )
+
 📊 Dashboard Features
 🔹 KPIs
 Total Sales: 2.30M
@@ -94,6 +99,7 @@ Month
 Region
 Category
 Segment
+
 📈 Key Insights
 Sales show moderate growth (3.8%) with fluctuations
 Peak performance observed in November (seasonality)
