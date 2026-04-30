@@ -21,25 +21,37 @@ The dataset consists of three main tables:
 Orders
 
 Order ID
+
 Order Date
+
 Customer ID
+
 Product ID
+
 Sales
+
 Profit
+
 Quantity
+
 🔸 Dimension Tables
 
 Customers
 
 Customer ID
+
 Customer Name
+
 Region
+
 Segment
 
 Products
 
 Product ID
+
 Category
+
 Sub-Category
 
 🔸 Calendar Table
