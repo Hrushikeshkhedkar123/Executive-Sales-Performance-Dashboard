@@ -85,24 +85,38 @@ DIVIDE(
 
 📊 Dashboard Features
 🔹 KPIs
+
 Total Sales: 2.30M
+
 Total Profit: 286K
+
 Profit Margin: 12.47%
+
 Growth %: 3.8%
+
 Total Orders: 9994
+
 
 🔹 Visuals
 📈 Sales Trend (Monthly)
+
 📊 Profit by Category
+
 📊 Sales by Region
+
 🍩 Segment Distribution
+
 📋 Top 10 Customers
 
 🔹 Filters (Slicers)
 Year
+
 Month
+
 Region
+
 Category
+
 Segment
 
 📈 Key Insights
