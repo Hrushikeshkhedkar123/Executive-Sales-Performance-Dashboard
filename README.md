@@ -36,7 +36,7 @@ Quantity
 
 🔸 Dimension Tables
 
-Customers
+*Customers*
 
 Customer ID
 
@@ -46,7 +46,7 @@ Region
 
 Segment
 
-Products
+*Products*
 
 Product ID
 
